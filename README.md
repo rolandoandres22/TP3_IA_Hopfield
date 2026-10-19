@@ -1,4 +1,3 @@
-```markdown
 # Prototipo de Reconocimiento de Imágenes y Posicionamiento con Red de Hopfield
 
 Este proyecto implementa una **Red Neuronal de Hopfield** autoasociativa en **JavaScript (Node.js)** sobre una cuadrícula de $10 \times 10$ píxeles ($100$ neuronas)[cite: 75, 77, 85]. 
